@@ -1,0 +1,38 @@
+.item{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    border: 1px solid #dae1e9;
+    border-radius: 5px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
+        0px 4px 4px rgba(0, 0, 0, 0.06),
+        1px 4px 6px rgba(0, 0, 0, 0.16);
+    padding: 7px 20px;  
+    height: 100px;  
+}
+
+.avatar {
+    border: 1px solid #dae1e9;
+    border-radius: 5px;
+    width: 87px;
+    height: 87px;
+    
+}
+
+.name {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.status {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #ea5f59;
+
+}
+
+.isOnline {
+    background-color: #65af57;
+}

@@ -1,0 +1,18 @@
+.transaction__item {
+    text-align: center;
+    height: 50px;
+    background-color: #fff;
+}
+
+.transaction__type {
+    text-transform: capitalize;
+    border-right: 1px solid #dae1e9;
+}
+
+.trancaction_amount{
+    border-right: 1px solid #dae1e9;
+}
+
+.dark {
+    background-color: #edf1f3;
+}
